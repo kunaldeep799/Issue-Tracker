@@ -1,12 +1,12 @@
 # Issue Tracker
 
-# Description
+## Description
 A full stack app, which helps to track issues/bugs for the Project.
 
-# Tech Stack
+## Tech Stack
 Nodejs , Express, Mongodb , EJS , javaScript , html, css
 
-# How to setup the project on local system
+## How to setup the project on local system
   1. Clone this project
   2. Start by installing npm if you don't have it already.
   3. Navigate to Project Directory and run the following the command.
@@ -14,7 +14,7 @@ Nodejs , Express, Mongodb , EJS , javaScript , html, css
         npm install 
         node index.js
    ````
-# Features
+## Features
   
   ### Home Page 
   A list of projects will be displayed.A button will be provided to create a new project. Upon the creation of a new project, it will be added to the list.
