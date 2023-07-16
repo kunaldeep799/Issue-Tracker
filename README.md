@@ -1,4 +1,4 @@
-### Issue Tracker
+# Issue Tracker
 
 ### Description
 A full stack app, which helps to track issues/bugs for the Project.
