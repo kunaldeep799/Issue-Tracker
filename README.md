@@ -7,7 +7,7 @@ A full stack app, which helps to track issues/bugs for the Project.
 Nodejs , Express, Mongodb , EJS , javaScript , html, css
 
 ## How to setup the project on local system
-  1. Clone this project
+  1. Clone this project from https://github.com/kunaldeep799/Issue-Tracker-Main.git
   2. Start by installing npm if you don't have it already.
   3. Navigate to Project Directory and run the following the command.
    ````
