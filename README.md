@@ -14,6 +14,7 @@ Nodejs , Express, Mongodb , EJS , javaScript , html, css
         npm install 
         node index.js
    ````
+  4.visit in your local browser- http://localhost:8000/
 ## Features
   
   ### Home Page 
