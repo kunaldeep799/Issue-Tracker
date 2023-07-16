@@ -9,7 +9,7 @@ Nodejs , Express, Mongodb , EJS , javaScript , html, css
 ## How to setup the project on local system
   1. Clone this project from https://github.com/kunaldeep799/Issue-Tracker-Main.git
   2. Start by installing npm if you don't have it already.
-  3. Navigate to Project Directory and run the following the command, After thath visit in your local browser- http://localhost:8000/
+  3. Navigate to Project Directory and run the following the command, After that visit in your local browser- http://localhost:8000/
    ````
         npm install 
         node index.js
